@@ -1,4 +1,4 @@
-# Android AGENTS.md and Guidelines
+# Android AGENTS.md
 AGENTS.md and guidelines for Android native projects
 
 ## Desciption
