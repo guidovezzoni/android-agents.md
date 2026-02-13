@@ -13,15 +13,16 @@ Instructions:
 - Follow references recursively when needed
 - If a file reference cannot be found, always notify the user.
 
-## Development Guidelines
+### Android Guidelines
 
 For Native Android code style and best practices: @docs/agents/guidelines-android.md
 
-## General Guidelines
+### General Guidelines
 
 Read the following file immediately as it's relevant to all workflows: @docs/agents/guidelines-process.md
 
 
 ## Project Overview
+
 
 (the rest of your AGENTS.md)
